@@ -275,7 +275,7 @@ function epupila(){
   endShape()
 }
 function exteriornas(){
- fill(203, 227, 235)
+ fill(2, 3, 5)
 beginShape();
 vertex(399.5, 529.609375);
 vertex(403.5, 513.609375);
